@@ -1,5 +1,4 @@
 import _ from "lodash";
-import Bluebird from "bluebird";
 import inquirer, { QuestionCollection, Question } from "inquirer";
 import zlib from "zlib";
 import { STS, STSClientConfig } from "@aws-sdk/client-sts";
